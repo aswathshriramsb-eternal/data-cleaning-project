@@ -54,7 +54,7 @@ streamlit run app.py
 ---
 
 ## 📄 Report
-[Download Report](report.pdf)
+[Download Report](Report.pdf)
 
 ---
 
